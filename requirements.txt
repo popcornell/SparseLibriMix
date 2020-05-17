@@ -1,0 +1,4 @@
+tqdm>=4.46.0
+pyloudnorm>=0.1.0
+soundfile>=0.10.3
+numpy>=1.18.2
